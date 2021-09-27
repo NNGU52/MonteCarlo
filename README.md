@@ -8,7 +8,7 @@
 F(x,y) = 1-x^4-y^4  
 Условия, определяющие S: 0.25 < x^2+y^2 < 1; x > 0; y > 0;
 
-<p align="center"><img src="https://github.com/NNGU52/MonteCarlo/blob/main/screenshots/img.jpg"/></p>
+<p align="center"><img src="/screenshots/img.jpg"/></p>
 
 ## Геометрический алгоритм Монте-Карло интегрирования
 Для определения площади под графиком функции можно использовать следующий стохастический алгоритм:
@@ -19,12 +19,12 @@ F(x,y) = 1-x^4-y^4
 
 Для малого числа измерений интегрируемой функции производительность Монте-Карло интегрирования гораздо ниже, чем производительность детерминированных методов. Тем не менее, в некоторых случаях, когда функция задана неявно, а необходимо определить область, заданную в виде сложных неравенств, стохастический метод может оказаться более предпочтительным.
 
-<p align="center"><img src="https://github.com/NNGU52/MonteCarlo/blob/main/screenshots/MC_integration.jpg"/></p>
+<p align="center"><img src="/screenshots/MC_integration.jpg"/></p>
 
 ## Рассчёты
-<p align="center"><img src="https://github.com/NNGU52/MonteCarlo/blob/main/screenshots/calculations.png"/></p>
+<p align="center"><img src="/screenshots/calculations.png"/></p>
 
 ## Результат работы программы
 На вход подаём число итераций, в итоге поучаем результат приближённого интегрирование методом Монте-Карло.
 
-<p align="center"><img src="https://github.com/NNGU52/MonteCarlo/blob/main/screenshots/console.png"/></p>
+<p align="center"><img src="/screenshots/console.png"/></p>
